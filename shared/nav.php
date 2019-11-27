@@ -36,8 +36,8 @@
         </ul>
         <div class="form-inline my-2 my-lg-0">
 
-            <button class="btn btn-outline-light my-2 my-sm-0" type="button"><i
-                    class="fas fa-user mr-1" data-toggle="modal" data-target="#modalLogin"></i>Login</button>
+            <button class="btn btn-outline-light my-2 my-sm-0" type="button" data-toggle="modal" data-target="#modalLogin"><i
+                    class="fas fa-user mr-1" ></i>Login</button>
         </div>
         <!-- Modal -->
         <div class="modal fade" id="modalLogin" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
